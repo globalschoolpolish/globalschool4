@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://globalschoolkrakow.netlify.app/sitemap.xml
